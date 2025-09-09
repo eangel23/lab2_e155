@@ -1,0 +1,1 @@
+C:/lscc/radiant/2025.1/questasim/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.top_tb -quiet -auto_acc_if_foreign -work work -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP +acc -allow_unnamed -o _opt1 -id 1-9009df8c4aba-68bf8b32-382-80a4 +__design_bin_path+C:/Users/emmaa/my_designs/lab2_ea +__betafsm

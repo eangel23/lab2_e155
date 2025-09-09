@@ -1,0 +1,38 @@
+---------------------------------------------------
+Report for cell top
+   Instance path: top
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	         58        100.0
+                               LUTGATE	         32        100.0
+                                LUTCCU	         26        100.0
+                                 IOBUF	         23        100.0
+                                PFUREG	         27        100.0
+SUB MODULES
+                                  cell	      count    LUT4 Usage(%)
+                                 adder	          1        12.1
+                               flicker	          1        67.2
+                             seven_seg	          1        12.1
+---------------------------------------------------
+Report for cell seven_seg
+   Instance path: top/seven_seg
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          7        12.1
+                               LUTGATE	          7        21.9
+---------------------------------------------------
+Report for cell flicker
+   Instance path: top/flicker
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	         39        67.2
+                               LUTGATE	         13        40.6
+                                LUTCCU	         26        100.0
+                                PFUREG	         27        100.0
+---------------------------------------------------
+Report for cell adder
+   Instance path: top/adder
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          7        12.1
+                               LUTGATE	          7        21.9

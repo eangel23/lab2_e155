@@ -1,0 +1,358 @@
+# Reading pref.tcl
+# //  Questa Lattice OEM Edition-64
+# //  Version 2024.2 win64 May 20 2024
+# //
+# // Unpublished work. Copyright 2024 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:07 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv 
+# -- Compiling module seven_seg_testbench
+# 
+# Top level modules:
+# 	seven_seg_testbench
+# End time: 18:54:08 on Sep 08,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:08 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv 
+# -- Compiling module seven_seg
+# 
+# Top level modules:
+# 	seven_seg
+# End time: 18:54:08 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:09 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv 
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	top_tb
+# End time: 18:54:09 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:09 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 18:54:09 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:09 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv 
+# -- Compiling module flicker_tb
+# 
+# Top level modules:
+# 	flicker_tb
+# End time: 18:54:10 on Sep 08,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:10 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv 
+# -- Compiling module flicker
+# 
+# Top level modules:
+# 	flicker
+# End time: 18:54:10 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:10 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv 
+# End time: 18:54:10 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:10 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv 
+# -- Compiling module adder_tb
+# 
+# Top level modules:
+# 	adder_tb
+# End time: 18:54:10 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 18:54:10 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 18:54:11 on Sep 08,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim -gui work.top_tb -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP -voptargs=+acc
+# vsim -gui work.top_tb -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP -voptargs="+acc" 
+# Start time: 18:55:15 on Sep 08,2025
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility. The +acc switch would be deprecated in a future release.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading sv_std.std
+# Loading work.top_tb(fast)
+# Loading work.top(fast)
+# Loading C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP.HSOSC(fast)
+# Loading work.flicker(fast)
+# Loading work.adder(fast)
+# Loading work.seven_seg(fast)
+add wave -position insertpoint  \
+sim:/top_tb/clk \
+sim:/top_tb/reset \
+sim:/top_tb/s0 \
+sim:/top_tb/s1 \
+sim:/top_tb/led \
+sim:/top_tb/seg \
+sim:/top_tb/anode0 \
+sim:/top_tb/anode1 \
+sim:/top_tb/seg_expected_s0 \
+sim:/top_tb/seg_expected_s1 \
+sim:/top_tb/led_expected
+run -all
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 1 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 11 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 21 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  9  got  8
+#    Time: 31 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  4  got  3
+#    Time: 41 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 51 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  9  got  8
+#    Time: 61 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  4  got  3
+#    Time: 71 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 81 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  9  got  8
+#    Time: 91 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 101 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 111 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  9  got  8
+#    Time: 121 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 131 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 141 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  9  got  8
+#    Time: 151 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 161 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 171 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 24  got 23
+#    Time: 181 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 191 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 201 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 24  got 23
+#    Time: 211 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 221 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 14  got 13
+#    Time: 231 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 24  got 23
+#    Time: 241 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 19  got 18
+#    Time: 251 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 29  got 28
+#    Time: 261 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected 24  got 23
+#    Time: 271 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# Simulation complete.
+# ** Note: $finish    : C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv(110)
+#    Time: 278 ns  Iteration: 0  Instance: /top_tb
+# 1
+# Break in Module top_tb at C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv line 110
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading work.top_tb(fast)
+# Loading work.top(fast)
+# Loading C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP.HSOSC(fast)
+# Loading work.flicker(fast)
+# Loading work.adder(fast)
+# Loading work.seven_seg(fast)
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:00:59 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv 
+# -- Compiling module seven_seg_testbench
+# 
+# Top level modules:
+# 	seven_seg_testbench
+# End time: 19:00:59 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:00 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv 
+# -- Compiling module seven_seg
+# 
+# Top level modules:
+# 	seven_seg
+# End time: 19:01:00 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:00 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv 
+# -- Compiling module top_tb
+# 
+# Top level modules:
+# 	top_tb
+# End time: 19:01:00 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:00 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 19:01:00 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:01 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv 
+# -- Compiling module flicker_tb
+# 
+# Top level modules:
+# 	flicker_tb
+# End time: 19:01:01 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:01 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv 
+# -- Compiling module flicker
+# 
+# Top level modules:
+# 	flicker
+# End time: 19:01:01 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:01 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv 
+# End time: 19:01:02 on Sep 08,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:02 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv 
+# -- Compiling module adder_tb
+# 
+# Top level modules:
+# 	adder_tb
+# End time: 19:01:02 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+# Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+# Start time: 19:01:02 on Sep 08,2025
+# vlog -reportprogress 300 -work work C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 19:01:02 on Sep 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP -voptargs=+acc work.top_tb
+# End time: 19:04:33 on Sep 08,2025, Elapsed time: 0:09:18
+# Errors: 0, Warnings: 1
+# vsim -gui -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP -voptargs="+acc" work.top_tb 
+# Start time: 19:04:33 on Sep 08,2025
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility. The +acc switch would be deprecated in a future release.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading sv_std.std
+# Loading work.top_tb(fast)
+# Loading work.top(fast)
+# Loading C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP.HSOSC(fast)
+# Loading work.flicker(fast)
+# Loading work.adder(fast)
+# Loading work.seven_seg(fast)
+run -all
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 1 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 11 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: LED sum mismatch: expected  x  got  x
+#    Time: 21 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 116
+# ** Error: 7-seg mismatch for s1: expected 0010000, got 1000000
+#    Time: 19072 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0001000, got 1111001
+#    Time: 52112 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 1000110, got 0110000
+#    Time: 120732 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 1000110, got 0011001
+#    Time: 153772 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0000010, got 1111000
+#    Time: 237642 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0001110, got 1111000
+#    Time: 255432 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 1000000, got 0010000
+#    Time: 288472 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0010000, got 0001000
+#    Time: 339302 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0100100, got 0000011
+#    Time: 357092 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0110000, got 1000110
+#    Time: 390132 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0000011, got 1000110
+#    Time: 407922 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 1000110, got 0100001
+#    Time: 440962 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0010010, got 0000110
+#    Time: 458752 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0010010, got 0001110
+#    Time: 491792 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# ** Error: 7-seg mismatch for s1: expected 0000110, got 0001110
+#    Time: 509582 ns  Scope: top_tb File: C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv Line: 127
+# Simulation complete.
+# ** Note: $finish    : C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv(110)
+#    Time: 512022 ns  Iteration: 0  Instance: /top_tb
+# 1
+# Break in Module top_tb at C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv line 110
+add wave -position insertpoint  \
+sim:/top_tb/clk \
+sim:/top_tb/reset \
+sim:/top_tb/s0 \
+sim:/top_tb/s1 \
+sim:/top_tb/led \
+sim:/top_tb/seg \
+sim:/top_tb/anode0 \
+sim:/top_tb/anode1 \
+sim:/top_tb/seg_expected_s0 \
+sim:/top_tb/seg_expected_s1 \
+sim:/top_tb/led_expected
+run -all
+# Break key hit
+# Simulation stop requested.
+# End time: 01:55:14 on Sep 09,2025, Elapsed time: 6:50:41
+# Errors: 18, Warnings: 1

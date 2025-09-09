@@ -1,0 +1,40 @@
+----------------------------------------------------------------------
+Report for cell top.TECH
+Register bits:  27 of 5280 (0.511%)
+I/O cells:      23
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               CCU2        13          100.0
+                            FD1P3XZ        27          100.0
+                         HSOSC_CORE         1          100.0
+                                 IB         9          100.0
+                               LUT4        31          100.0
+                                 OB        14          100.0
+SUB MODULES
+                              adder         1
+                            flicker         1
+                          seven_seg         1
+                              TOTAL        98
+----------------------------------------------------------------------
+Report for cell seven_seg.v1
+Instance Path : seven_seg
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               LUT4         7           22.6
+                              TOTAL         7
+----------------------------------------------------------------------
+Report for cell flicker.v1
+Instance Path : flicker
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2        13          100.0
+                            FD1P3XZ        27          100.0
+                               LUT4        13           41.9
+                              TOTAL        53
+----------------------------------------------------------------------
+Report for cell adder.v1
+Instance Path : adder
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               LUT4         7           22.6
+                              TOTAL         7

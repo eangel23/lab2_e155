@@ -1,0 +1,58 @@
+#Start recording tcl command: 9/5/2025 16:28:32
+#Project Location: C:/Users/emmaa/my_designs/lab2_ea; Project name: lab2_ea
+prj_create -name "lab2_ea" -impl "impl_1" -dev iCE40UP5K-SG48I -performance "High-Performance_1.2V" -synthesis "lse"
+prj_save 
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.vm"
+prj_remove_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.vm"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.ldc"
+prj_remove_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.ldc"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_4bit.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_remove_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_4bit.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.vm"
+prj_remove_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.vm"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv"
+prj_add_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv"
+prj_remove_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_disable_source "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv" "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv" "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv" "C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+#Stop recording: 9/9/2025 01:55:24

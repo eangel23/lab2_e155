@@ -1,0 +1,58 @@
+C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module flicker_tb
+
+Top level modules:
+	flicker_tb
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/clk_counter.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv {0 {vlog -work work -vopt -sv -stats=none {C:\Users\emmaa\my_designs\lab2_ea\source\impl_1\lab2_ea_tb.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module top_tb
+** Error: (vlog-13069) C:\Users\emmaa\my_designs\lab2_ea\source\impl_1\lab2_ea_tb.sv(97): near ")": syntax error, unexpected ')'.
+
+} {4.0 5.0} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_seg
+
+Top level modules:
+	seven_seg
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_seg_testbench
+
+Top level modules:
+	seven_seg_testbench
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module flicker
+
+Top level modules:
+	flicker
+
+} {} {}} C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}

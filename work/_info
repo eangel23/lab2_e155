@@ -1,0 +1,295 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+Z2 !s12c _opt2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z3 !s12c _opt
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R3
+R1
+R2
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R3
+R1
+R3
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dC:/Users/emmaa/my_designs/lab2_ea
+T_opt
+!s110 1757298213
+V5jjoNWMZ4EWQo<o=7hYa_0
+04 19 4 work seven_seg_testbench fast 0
+=1-9009df8c4aba-68be3e24-27d-504
+R1
+Z5 !s12f OEM25U2 
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 !s135 nogc
+Z9 o-quiet -auto_acc_if_foreign -work work -L C:/lscc/radiant/2025.1/cae_library/simulation/libs/iCE40UP +acc
+Z10 tCvgOpt 0
+n@_opt
+Z11 OL;O;2024.2;79
+R4
+T_opt1
+!s110 1757383475
+VTLUS6[Xo;immU7i[EPj<J2
+04 6 4 work top_tb fast 0
+=1-9009df8c4aba-68bf8b32-382-80a4
+R1
+!s12f OEM25U5 
+R6
+R7
+R8
+R9
+R10
+n@_opt1
+R11
+T_opt2
+!s110 1757364619
+V5_UO[kz1I@bPUNMbcOf3P1
+04 8 4 work adder_tb fast 0
+=1-9009df8c4aba-68bf418a-312-9104
+R1
+R5
+R6
+R7
+R8
+R9
+R10
+n@_opt2
+R11
+R4
+vadder
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+Z12 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z13 !s110 1757383262
+!i10b 1
+!s100 NT6eKJ8nLe:[J1CadCPC52
+I778ikgh=G63XicS=7XTg81
+S1
+R4
+w1757199415
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv
+!i122 234
+L0 5 9
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z16 !s108 1757383262.000000
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder.sv|
+!i113 0
+Z17 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R10
+vadder_tb
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+R12
+R13
+!i10b 1
+!s100 b?^ghC;o0oA[]Se<SNc460
+I56VXJ=ToS3ed8VN]W]J3k1
+S1
+R4
+w1757364504
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv
+!i122 233
+L0 7 34
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/adder_tb.sv|
+!i113 0
+R17
+R10
+vflicker
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+R12
+Z18 !s110 1757383261
+!i10b 1
+!s100 SZL[7IBBM]h=6:g798O9U0
+I3BZF@m@<PE2ATAYS=]AJb3
+S1
+R4
+w1757297936
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv
+!i122 232
+L0 5 25
+R14
+R15
+r1
+!s85 0
+31
+Z19 !s108 1757383261.000000
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker.sv|
+!i113 0
+R17
+R10
+vflicker_tb
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+R12
+R18
+!i10b 1
+!s100 mRXm=S584ghMdi3<4Z5JC3
+I?=?X>VhXfJa9HC:jl]RiR0
+S1
+R4
+w1757194680
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv
+!i122 231
+L0 7 48
+R14
+R15
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/flicker_tb.sv|
+!i113 0
+R17
+R10
+vseven_seg
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+R12
+Z20 !s110 1757383260
+!i10b 1
+!s100 nGUNVn;=NUdDNPDHOG5L@2
+I]7Ji[FAha0NokFlRaZ9o22
+S1
+R4
+w1757128004
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv
+!i122 228
+L0 6 29
+R14
+R15
+r1
+!s85 0
+31
+Z21 !s108 1757383260.000000
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg.sv|
+!i113 0
+R17
+R10
+vseven_seg_testbench
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+R12
+!s110 1757383259
+!i10b 1
+!s100 `AhCkg=::[G9ei>X@CJ;R1
+IeRdTnoAJg8X_AoNd<oeo;3
+S1
+R4
+w1757194402
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv
+!i122 227
+L0 6 55
+R14
+R15
+r1
+!s85 0
+31
+!s108 1757383259.000000
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/seven_seg_tb.sv|
+!i113 0
+R17
+R10
+vtop
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+R12
+R20
+!i10b 1
+!s100 JomfAIVoHDP<?K?`d?[cl2
+I7nOCf:7Jc2>i9ecQg@M5A1
+S1
+R4
+w1757194757
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv
+!i122 230
+L0 6 28
+R14
+R15
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea.sv|
+!i113 0
+R17
+R10
+vtop_tb
+2C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv
+R12
+R20
+!i10b 1
+!s100 ^kZOR5P8V2aT<nCe^j=PM1
+I510H8<3f^^COPdEL>eS5Y3
+S1
+R4
+w1757383222
+8C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv
+FC:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv
+!i122 229
+L0 6 126
+R14
+R15
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/emmaa/my_designs/lab2_ea/source/impl_1/lab2_ea_tb.sv|
+!i113 0
+R17
+R10
